@@ -6,4 +6,7 @@ gem "jekyll", "~> 4.3.4" # installed by `gem jekyll`
 gem "just-the-docs", "0.10.0" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 
-just-the-docs
+gem "just-the-docs"
+gem "jekyll-seo-tag"
+gem "jekyll-sitemap"
+gem "jekyll-redirect-from"
